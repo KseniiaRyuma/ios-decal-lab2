@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B45A0764F58CD5DD3822BA4AA615136FE33BFB4E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B45A0764F58CD5DD3822BA4AA615136FE33BFB4E" : 9223372036854775807,
+    "D07563CBA3368644A9F8774AC8537375A3C840AB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1D5CD561-7916-498F-95CA-8F97200D1D49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B45A0764F58CD5DD3822BA4AA615136FE33BFB4E" : "ios-decal-lab2\/",
+    "D07563CBA3368644A9F8774AC8537375A3C840AB" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Drummer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Drummer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iosdecal\/ios-decal-lab2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B45A0764F58CD5DD3822BA4AA615136FE33BFB4E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:KseniiaRyuma\/Angular_ToDoList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D07563CBA3368644A9F8774AC8537375A3C840AB"
+    }
+  ]
+}
